@@ -1,0 +1,10 @@
+C:\Users\X\source\repos\EndLessRunner\EndLessRunner\bin\Debug\EndLessRunner.exe.config
+C:\Users\X\source\repos\EndLessRunner\EndLessRunner\bin\Debug\EndLessRunner.exe
+C:\Users\X\source\repos\EndLessRunner\EndLessRunner\bin\Debug\EndLessRunner.pdb
+C:\Users\X\source\repos\EndLessRunner\EndLessRunner\obj\Debug\EndLessRunner.csproj.AssemblyReference.cache
+C:\Users\X\source\repos\EndLessRunner\EndLessRunner\obj\Debug\EndLessRunner.Form1.resources
+C:\Users\X\source\repos\EndLessRunner\EndLessRunner\obj\Debug\EndLessRunner.Properties.Resources.resources
+C:\Users\X\source\repos\EndLessRunner\EndLessRunner\obj\Debug\EndLessRunner.csproj.GenerateResource.cache
+C:\Users\X\source\repos\EndLessRunner\EndLessRunner\obj\Debug\EndLessRunner.csproj.CoreCompileInputs.cache
+C:\Users\X\source\repos\EndLessRunner\EndLessRunner\obj\Debug\EndLessRunner.exe
+C:\Users\X\source\repos\EndLessRunner\EndLessRunner\obj\Debug\EndLessRunner.pdb
